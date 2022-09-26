@@ -1,0 +1,20 @@
+* body {
+    background-color: rgb(169, 169, 232);
+}
+
+* .flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
